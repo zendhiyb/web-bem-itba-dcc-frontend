@@ -1,5 +1,5 @@
 # Link
-https://zendhiyb.github.io/Zendhi-Yuna-Burnama_Universitas-Muhammadiyah-Sidoarjo_Web-Design/
+https://zendhiyb.github.io/Web-Profile-BEM-ITBA-DCC-Frontend/
 
 # Lomba Web Design BEM ITBA DCC
 
