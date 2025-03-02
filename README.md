@@ -1,5 +1,5 @@
 # Link
-https://zendhiyb.github.io/Web-Profile-BEM-ITBA-DCC-Frontend/
+https://zendhiyb.github.io/web-bem-itba-dcc-frontend/
 
 # Lomba Web Design BEM ITBA DCC
 
