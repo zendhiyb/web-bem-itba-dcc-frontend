@@ -45,5 +45,3 @@ Website resmi BEM ITBA DCC yang mengusung tema merah putih sebagai simbol semang
 ## Tujuan
 Website ini bertujuan sebagai pusat informasi dan dokumentasi kegiatan BEM ITBA DCC yang informatif, mudah diakses, dan menarik secara visual.
 
----
-
